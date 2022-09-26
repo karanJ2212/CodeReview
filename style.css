@@ -1,0 +1,15 @@
+.test{
+    background: red;
+}
+
+.text-list{
+    font-size:14px;
+}
+.video-caption{
+    font-size:17px;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
